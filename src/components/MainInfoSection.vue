@@ -9,7 +9,7 @@
       <div class="mx-auto max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
         <h2 class="text-2xl font-bold text-gray-900 md:text-3xl">
           Бронштейн Марк Александрович<br />
-          24.11.1997<br />
+          26 лет<br />
           Trainee/Junior Frontend Developer(React/Vue)
         </h2>
 
