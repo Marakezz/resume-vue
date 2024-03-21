@@ -7,11 +7,22 @@
       <div class="mx-auto max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
         <h2 class="text-2xl font-bold text-gray-900 md:text-3xl">Проекты на React</h2>
         <p class="text-gray-500 md:mt-4 md:block">
-          Проекты представлены в видео в связи со сложностью их деплоя, приятного просмотра 🙂
+          Проекты представлены в видео , приятного просмотра 🙂
         </p>
-        <video class="mt-2" controls>
+        <!-- <video class="mt-2" controls>
           <source src="/video.mp4" type="video/mp4" />
-        </video>
+        </video> -->
+        <br />
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/oeviI6FvDzg?si=F-aimv8hNaMMAgU0"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
         <p class="text-gray-500 mt-2 md:mt-4 md:block">Исходный код на GitHub</p>
         <div class="xl:flex xl:justify-between">
           <div class="mt-4 md:mt-8">
